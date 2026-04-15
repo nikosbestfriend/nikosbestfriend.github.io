@@ -55,7 +55,7 @@
   <nav>
     <a class="brand" href="index.html">Christen Black</a>
     <a href="index.html">Home</a>
-    <a href="PhD_CV_(6).pdf" target="_blank">CV</a>
+    <a href="PhD_CV__6_.pdf" target="_blank">CV</a>
     <a href="#research">Research</a>
     <a href="#teaching">Teaching</a>
     <a href="about.html">About Me</a>
@@ -77,7 +77,7 @@
         </li>
         <li>
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="18" x2="12" y2="12"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
-          <a href="PhD_CV_(6).pdf" target="_blank">Download CV</a>
+          <a href="PhD_CV__6_.pdf" target="_blank">Download CV</a>
         </li>
       </ul>
     </aside>
@@ -95,7 +95,7 @@
         primarily in R to study how policy shapes opportunity and inequality.
       </p>
 
-      <a class="cv-btn" href="PhD_CV_(6).pdf" target="_blank">
+      <a class="cv-btn" href="PhD_CV__6_.pdf" target="_blank">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="18" x2="12" y2="12"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
         View Full CV
       </a>
