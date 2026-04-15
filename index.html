@@ -112,6 +112,11 @@
       <div class="section" id="research">
         <h2>Research</h2>
         <div class="research-item">
+          <h3>Skateboarding as a Noisy Signal of Romantic Interest: A Valentines Day Question</h3>
+          <p>A Bayesian decision model with risk preferences exploring when "asking for a skate lesson" is — and is not — a reliable signal of romantic interest. The model shows that because a risk-averse romantic may choose not to ask and a risk-seeking non-romantic may ask anyway, the action is informative but not definitive. &nbsp;<a href="Game_Theory_Skateboarding.pdf" target="_blank" style="color:var(--navy);font-weight:600;">PDF</a></p>
+        </div>
+
+        <div class="research-item">
           <h3>Determinants of Enrollment at HBCUs</h3>
           <p>Examines the factors that influence student enrollment decisions at Historically Black Colleges and Universities, exploring how economic, social, and institutional characteristics shape enrollment patterns.</p>
         </div>
@@ -157,4 +162,3 @@
   </footer>
 </body>
 </html>
-
