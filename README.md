@@ -64,7 +64,7 @@
     <aside>
       <div class="photo-wrap">
         <!-- Replace with: <img src="headshot.jpg" alt="Christen Black"> -->
-        <span class="photo-placeholder">👤</span>
+        <img src="IMG_5678.jpeg" alt="Christen Black">
       </div>
       <ul class="contact-list">
         <li>
