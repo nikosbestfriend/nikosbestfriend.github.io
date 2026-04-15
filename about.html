@@ -31,6 +31,8 @@
     .bullet-list li { font-size: 0.95rem; color: var(--text); line-height: 1.7; padding: 0.35rem 0 0.35rem 1.1rem; position: relative; }
     .bullet-list li::before { content: '▸'; position: absolute; left: 0; color: var(--gold); font-size: 0.75rem; top: 0.55rem; }
     footer { text-align: center; padding: 1.5rem; font-size: 0.8rem; color: var(--muted); border-top: 1px solid var(--border); margin-top: 2rem; }
+    #letterboxd-embed-wrapper-tc { margin-top: 0.5rem; }
+    #letterboxd-embed-wrapper-tc img { max-width: 100%; }
   </style>
 </head>
 <body>
@@ -67,6 +69,20 @@
         <li>Fishing</li>
       </ul>
     </div>
+
+    <div class="section">
+      <h2>Movies</h2>
+      <p class="bio" style="margin-bottom:1.25rem;">I love movies. Here are some of my recent watches from my Letterboxd:</p>
+      <div id="letterboxd-embed-wrapper-tc">Loading...</div>
+      <script>
+        fetch('https://lb-embed-content.bokonon.dev?username=thesouplovers')
+          .then(response => response.text())
+          .then(data => {
+            document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;
+          });
+      </script>
+    </div>
+
   </div>
 
   <footer>
