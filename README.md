@@ -134,8 +134,9 @@
       </div>
 
       <div class="section" id="teaching">
-        <h2>Teaching &amp; Experience</h2>
+          <h2>Teaching &amp; Experience</h2>
         <ul class="bullet-list">
+          <li><strong>Visiting Assistant Professor of Economics</strong> — Florida Agricultural and Mechanical University, Tallahassee, FL (2026–2027, one-year appointment). Teaching Industrial Organization, Managerial Economics, and Money and Banking and Financial Markets at the undergraduate level (Fall 2026).</li>
           <li><strong>Fellow, AEA Summer Program (AEASP)</strong> — Howard University / Federal Reserve Board (Summer 2025). Competitively selected; helped students conduct econometrics research and presented findings to Federal Reserve economists and institutions across D.C.</li>
           <li><strong>Adjunct Instructor of Economics</strong> — Hampton University (Summer 2024). Taught Principles of Microeconomics and Macroeconomics; designed course materials and provided academic mentoring.</li>
           <li><strong>Graduate Researcher</strong> — Howard University (2023–Present). Conducts research in labor and urban economics; collaborates with faculty on empirical projects using R for econometric modeling and visualization.</li>
